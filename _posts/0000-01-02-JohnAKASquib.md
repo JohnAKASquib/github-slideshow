@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Spam Square" - Sun Tzu, The Art of War
 Use the left arrow to go back!
